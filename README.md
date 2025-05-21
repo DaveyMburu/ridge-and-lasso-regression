@@ -11,6 +11,8 @@ In this lab you will:
 - Use lasso and ridge regression with scikit-learn 
 - Compare and contrast lasso, ridge and non-regularized regression 
 
+# Check the index.ipynb file for my workings
+
 ## Housing Prices Data
 
 We'll use this version of the Ames Housing dataset: 
